@@ -20,7 +20,7 @@ Aluksi sovelluksessa on vain yksi käyttäjärooli, _normaali käyttäjä_. Myö
   - käyttäjä voi kirjautua ulos sovelluksesta
   
 ## Jatkokehitysideoita
-- ratsastuksien tarkistelu lajin (este/koulu/maasto) perusteella
+- ratsastuksien tarkastelu lajin (este/koulu/maasto) perusteella
 - ratsastusmerkintöjen editointi
 - mahdollisuus lisätä hevosen tiedot/yksilöidä hevoset
   - käyttäjärooli: hevosenomistaja
