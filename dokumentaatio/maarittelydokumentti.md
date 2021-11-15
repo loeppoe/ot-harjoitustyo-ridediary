@@ -1,8 +1,12 @@
-#Vaatimusmäärittely
-##Tarkoitus
-##Käyttäjät
-##Käyttöliittymäluonnos
-##Perusversion toiminnalisuus
-#Ennen kirjautumista
-#Kirjautumisen jälkeen
-##Jatkokehitysideoita
+# Vaatimusmäärittely
+## Tarkoitus
+
+## Käyttäjät
+
+## Käyttöliittymäluonnos
+
+## Perusversion toiminnalisuus
+  # Ennen kirjautumista
+  # Kirjautumisen jälkeen
+
+## Jatkokehitysideoita
