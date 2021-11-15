@@ -6,7 +6,7 @@
 ## Käyttöliittymäluonnos
 
 ## Perusversion toiminnalisuus
-  # Ennen kirjautumista
-  # Kirjautumisen jälkeen
+  ### Ennen kirjautumista
+  ### Kirjautumisen jälkeen
 
 ## Jatkokehitysideoita
