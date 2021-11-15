@@ -10,21 +10,20 @@ Aluksi sovelluksessa on vain yksi käyttäjärooli, _normaali käyttäjä_. Myö
 
 ## Perusversion toiminnalisuus
   ### Ennen kirjautumista
-  -käyttäjä voi luoda käyttäjätunnuksen
-  -käyttäjä voi kirjautua järjestelmään
-    -jos käyttäjää ei ole olemassa sovellus ilmoittaa tästä
-
+  - käyttäjä voi luoda käyttäjätunnuksen
+  - käyttäjä voi kirjautua järjestelmään
+    - jos käyttäjää ei ole olemassa sovellus ilmoittaa tästä
   ### Kirjautumisen jälkeen
-  -käyttäjä näkee omat ratsastuksensa
-  -käyttäjä voi lisätä ratsastuksen
-  -käyttäjä voi poistaa ratsastuksen
-  -käyttäjä voi kirjautua ulos sovelluksesta
+  - käyttäjä näkee omat ratsastuksensa
+  - käyttäjä voi lisätä ratsastuksen
+  - käyttäjä voi poistaa ratsastuksen
+  - käyttäjä voi kirjautua ulos sovelluksesta
   
 ## Jatkokehitysideoita
--ratsastuksien tarkistelu lajin (este/koulu/maasto) perusteella
--ratsastusmerkintöjen editointi
--mahdollisuus lisätä hevosen tiedot/yksilöidä hevoset
-  -käyttäjärooli: hevosenomistaja
-  -mahdollisesti näkisi omistamiensa hevosten kaikki ratsastajat/ratsastukset
--salansana käyttäjille
--käyttäjätunnuksen poisto
+- ratsastuksien tarkistelu lajin (este/koulu/maasto) perusteella
+- ratsastusmerkintöjen editointi
+- mahdollisuus lisätä hevosen tiedot/yksilöidä hevoset
+  - käyttäjärooli: hevosenomistaja
+  - mahdollisesti näkisi omistamiensa hevosten kaikki ratsastajat/ratsastukset
+- salansana käyttäjille
+- käyttäjätunnuksen poisto
