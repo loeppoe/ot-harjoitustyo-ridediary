@@ -4,7 +4,7 @@
 Sovelluksella on tarkoitus seurata ja pitää kirjaa käyttäjän ratsastuksista. Sovellusta on tarkoitus käyttää rekisteröimällä käyttäjätunnuksen, joilla kaikilla on yksilöllinen ratsastuspäiväkirja.
 
 ## Käyttäjät
-Aluksi sovelluksessa on vain yksi käyttäjärooli, _normaali käyttäjä_. Myöhemmin on mahdollista lisätä erilaisia käyttäjärooleja, esimerkiksi _pääkäyttäjä_, joille olisi mahdollista antaa lisää käyttöoikeuksia.
+Aluksi sovelluksessa on vain yksi käyttäjärooli, _peruskäyttäjä_. Myöhemmin on mahdollista lisätä erilaisia käyttäjärooleja, esimerkiksi _pääkäyttäjä_, joille olisi mahdollista antaa lisää käyttöoikeuksia.
 
 ## Käyttöliittymäluonnos
 
@@ -16,14 +16,20 @@ Aluksi sovelluksessa on vain yksi käyttäjärooli, _normaali käyttäjä_. Myö
   ### Kirjautumisen jälkeen
   - käyttäjä näkee omat ratsastuksensa
   - käyttäjä voi lisätä ratsastuksen
+    - milloin
+    - millä hevosella
+    - mikä laji (este/koulu/maasto)
+    - opettaja/valmentaja/itsenäinen-harjoitus
+    - mahdollisesti talli/paikka
   - käyttäjä voi poistaa ratsastuksen
   - käyttäjä voi kirjautua ulos sovelluksesta
   
 ## Jatkokehitysideoita
 - ratsastuksien tarkastelu lajin (este/koulu/maasto) perusteella
+- kisatulosten mahdollinen kirjaaminen
 - ratsastusmerkintöjen editointi
 - mahdollisuus lisätä hevosen tiedot/yksilöidä hevoset
-  - käyttäjärooli: hevosenomistaja
+  - mahdollinen käyttäjärooli: _hevosenomistaja_
   - mahdollisesti näkisi omistamiensa hevosten kaikki ratsastajat/ratsastukset
 - salansana käyttäjille
 - käyttäjätunnuksen poisto
