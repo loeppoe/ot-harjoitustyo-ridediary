@@ -7,6 +7,7 @@ Sovelluksella on tarkoitus seurata ja pitää kirjaa käyttäjän ratsastuksista
 Aluksi sovelluksessa on vain yksi käyttäjärooli, _peruskäyttäjä_. Myöhemmin on mahdollista lisätä erilaisia käyttäjärooleja, esimerkiksi _pääkäyttäjä_, joille olisi mahdollista antaa lisää käyttöoikeuksia.
 
 ## Käyttöliittymäluonnos
+![](./kuvat/kayttoliittymaluonnos.jpg)
 
 ## Perusversion toiminnalisuus
   ### Ennen kirjautumista
