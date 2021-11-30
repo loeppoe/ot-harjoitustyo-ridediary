@@ -4,6 +4,6 @@ class Ride:
         self.horse = horse
         self.teacher = teacher
         self.stable = stable
-    
+
     def __str__(self):
         return f"{self.date} - {self.horse} - {self.teacher} - {self.stable}"

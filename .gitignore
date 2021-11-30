@@ -5,4 +5,5 @@ src/tests/__pycache__/
 htmlcov/
 src/__pycache__/
 src/services/__pycache__/
+src/entities/__pycache__/
 

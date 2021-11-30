@@ -1,5 +1,5 @@
 from entities.ride import Ride
-from entities.rider import Rider
+
 
 class RidediaryService:
     def __init__(self):
@@ -13,8 +13,9 @@ class RidediaryService:
     def get_rides(self):
         return self._rides
 
-    def delete_ride(self):
-        None
+    def delete_ride(self, i):
+        rides = self._rides
+        rides.pop(i)
+
 
 ridediary_service = RidediaryService()
-    
