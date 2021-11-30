@@ -15,14 +15,13 @@ Aluksi sovelluksessa on vain yksi käyttäjärooli, _peruskäyttäjä_. Myöhemm
   - käyttäjä voi kirjautua järjestelmään
     - jos käyttäjää ei ole olemassa sovellus ilmoittaa tästä
   ### Kirjautumisen jälkeen
-  - käyttäjä näkee omat ratsastuksensa
-  - käyttäjä voi lisätä ratsastuksen
+  - käyttäjä näkee omat ratsastuksensa (toteutettu)
+  - käyttäjä voi lisätä ratsastuksen (toteutettu)
     - milloin
     - millä hevosella
-    - mikä laji (este/koulu/maasto)
     - opettaja/valmentaja/itsenäinen-harjoitus
     - mahdollisesti talli/paikka
-  - käyttäjä voi poistaa ratsastuksen
+  - käyttäjä voi poistaa ratsastuksen (toteutettu)
   - käyttäjä voi kirjautua ulos sovelluksesta
   
 ## Jatkokehitysideoita
