@@ -14,8 +14,9 @@ class RidediaryService:
         return self._rides
 
     def delete_ride(self, i):
+        index = int(i)
         rides = self._rides
-        rides.pop(i)
+        rides.pop(index)
 
 
 ridediary_service = RidediaryService()
