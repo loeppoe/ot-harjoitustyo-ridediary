@@ -13,4 +13,7 @@
 | 29.11. | 1    | testit luotu olemassa oleville toiminnoille ja luokalle|
 | 30.11. | 2    | pylint otettu käyttöön, siivottu koodia, arkkitehtuuridokumentti luotu, tarkistettu viikkotavoitteet|
 | 30.11. | 1    | päädytty tietokantaan tallennusmuotona, perehtyminen aloitettu|
-| yht. |   12  | |
+| 7.12. | 2   | olin kipeänä niin suunnitelmat meni uusiksi, koodattu ja heitetty taas yksi UI roskiin |
+| 7.12. | 2    | aloitettu UI:n alusta, muuten toimii ok, mutta en saanut ratkaistua kuinka listan voi nollata näkymästä|
+| 7.12. | 1    | askarreltu sekvenssikaavio ja päivitetty dokumentaatiota, koodia taas siistitty|
+| yht. |   17  | |
