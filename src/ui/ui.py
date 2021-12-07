@@ -1,6 +1,5 @@
 from ui.rides_view import RidesView
 
-
 class UI:
     def __init__(self, root):
         self._root = root
