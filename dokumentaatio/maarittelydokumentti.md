@@ -14,7 +14,7 @@ Aluksi sovelluksessa on vain yksi käyttäjärooli, _peruskäyttäjä_. Myöhemm
   - käyttäjä voi luoda käyttäjätunnuksen
   - käyttäjä voi kirjautua järjestelmään
     - jos käyttäjää ei ole olemassa sovellus ilmoittaa tästä
-  ### Kirjautumisen jälkeen
+  ### Kirjautumisen jälkeen (näkymä tehty)
   - käyttäjä näkee omat ratsastuksensa (tehty)
   - käyttäjä voi lisätä ratsastuksen (tehty)
     - milloin
