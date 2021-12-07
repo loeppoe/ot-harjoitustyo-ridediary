@@ -17,13 +17,7 @@ Käyttäjän on mahdollista pitää harrastus/treenipäiväkirjaa ratsastuksista
 poetry install
 ```
 
-2.
-
-```bash
-poetry run invoke build
-```
-
-3. Käynnistä sovellus:
+2. Käynnistä sovellus:
 
 ```bash
 poetry run invoke start
