@@ -10,7 +10,7 @@ Lataa projektin viimeisin [release](https://github.com/loeppoe/ot-harjoitustyo-r
 poetry install
 ```
 
-N2. Käynnistä ohjelma komennolla:
+2. Käynnistä ohjelma komennolla:
 
 ```
 poetry run invoke start
@@ -23,4 +23,5 @@ Ohjelma avautuu näkymään:
 ![](./kuvat/rideview.png)
 
 Näkymässä on mahdollista tallentaa uusi ride-merkintä painamalla näppäintä "uusi merkintä".
+
 Näkymässä on mahdollista poistaa merkintä indeksistä syöttämällä merkinnän indeksi ja painamalla "poista".
