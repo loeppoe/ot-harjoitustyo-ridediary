@@ -5,6 +5,7 @@
 Koodin pakkausrakenne on seuraava:
 
 ![Pakkausrakenne](./kuvat/arkkitehtuuri-pakkausluokat-uusi.png)
+
 Pakkaus ui pitää sisällään käyttöliittymän koodin, services sovelluslogiikasta vastaavan koodin ja entities olioiden luokkien koodin.
 
 ## Sovelluslogiikka
