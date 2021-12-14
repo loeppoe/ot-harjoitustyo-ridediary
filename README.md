@@ -2,11 +2,14 @@
 Käyttäjän on mahdollista pitää harrastus/treenipäiväkirjaa ratsastuksista sovelluksen avulla. Pienellä muokkauksella soveltuu myös muiden lajien kirjanpitoon.
 
 ## Dokumentaatio
-[Vaatimusmäärittely](https://github.com/loeppoe/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)
 
-[Arkkitehtuurikuvaus](https://github.com/loeppoe/ot-harjoitustyo/blob/master/dokumentaatio/arkkitehtuuri.md)
+[Käyttöohje](https://github.com/loeppoe/ot-harjoitustyo-ridediary/blob/master/dokumentaatio/kayttoohje.md)
 
-[Työaikakirjanpito](https://github.com/loeppoe/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
+[Vaatimusmäärittely](https://github.com/loeppoe/ot-harjoitustyo-ridediary/blob/master/dokumentaatio/maarittelydokumentti.md)
+
+[Arkkitehtuurikuvaus](https://github.com/loeppoe/ot-harjoitustyo-ridediary/blob/master/dokumentaatio/arkkitehtuuri.md)
+
+[Työaikakirjanpito](https://github.com/loeppoe/ot-harjoitustyo-ridediary/blob/master/dokumentaatio/tyoaikakirjanpito.md)
 
 
 ## Asennus
