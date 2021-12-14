@@ -23,6 +23,7 @@ Aluksi sovelluksessa on vain yksi käyttäjärooli, _peruskäyttäjä_. Myöhemm
     - mahdollisesti talli/paikka
   - käyttäjä voi poistaa ratsastuksen (tehty)
   - käyttäjä voi kirjautua ulos sovelluksesta
+  - käyttäjä voi tallentaa tietoa (tehty)
   
 ## Jatkokehitysideoita
 - ratsastuksien tarkastelu lajin (este/koulu/maasto) perusteella
