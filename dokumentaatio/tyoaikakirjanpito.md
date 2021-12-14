@@ -16,4 +16,6 @@
 | 7.12. | 2   | olin kipeänä niin suunnitelmat meni uusiksi, koodattu ja heitetty taas yksi UI roskiin |
 | 7.12. | 2    | aloitettu UI:n alusta, muuten toimii ok, mutta en saanut ratkaistua kuinka listan voi nollata näkymästä|
 | 7.12. | 1    | askarreltu sekvenssikaavio ja päivitetty dokumentaatiota, koodia taas siistitty|
-| yht. |   17  | |
+| 14.12. | 3    | yliarvioitu oma tietokantaosaaminen, päädytty jättämään se lopulliseen palautukseen, tallennettu tieto tiedostoon, huomattu, että testit ei enää järkeviä ja poistettu vanhat testit, todettu, että testikattavuus atm todella surkea, koodia yritetty siistiä|
+| 14.12. | 2    | lisätty uusi sekvenssikaavio ja uusittu pari muuta kuvaa, kirjoitettu käyttöohje, todettu, että eipä tallentunu, aloitettu alusta, päivitetty muut dokumentit ajantasalle, puskettu uus release|
+| yht. |   22  | |
