@@ -6,8 +6,8 @@ def main():
     window = Tk()
     window.title("Ratsastuspäiväkirja")
 
-    ui = UI(window)
-    ui.start()
+    Ui = UI(window) # pylint: disable=invalid-name
+    Ui.start()
 
     window.mainloop()
 

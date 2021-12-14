@@ -6,6 +6,7 @@ class RidesView:
     def __init__(self, root):
         self._root = root
         self._frame = None
+        self._rides = open("rides.txt", "r+")
 
         self._initialize()
 
@@ -57,9 +58,9 @@ class RidesView:
             self._new_stable.delete(0, constants.END)
 
     def _rides_list_view(self):
-
         rowlet = 5
-        rides = ridediary_service.get_rides()
+        rides = self._rides.readlines()
+
         for ride in rides:
             index = rides.index(ride)
             index_place = ttk.Label(master=self._root, text=index)
