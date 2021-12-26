@@ -18,4 +18,8 @@
 | 7.12. | 1    | askarreltu sekvenssikaavio ja päivitetty dokumentaatiota, koodia taas siistitty|
 | 14.12. | 3    | yliarvioitu oma tietokantaosaaminen, päädytty jättämään se lopulliseen palautukseen, tallennettu tieto tiedostoon, huomattu, että testit ei enää järkeviä ja poistettu vanhat testit, todettu, että testikattavuus atm todella surkea, koodia yritetty siistiä|
 | 14.12. | 2    | lisätty uusi sekvenssikaavio ja uusittu pari muuta kuvaa, kirjoitettu käyttöohje, todettu, että eipä tallentunu, aloitettu alusta, päivitetty muut dokumentit ajantasalle, puskettu uus release|
-| yht. |   22  | |
+| 25.12. | 2    | pohjustettu tietokannat|
+| 26.12. | 7    | paskottu koko ohjelma kun säädin tietokantojen kanssa, en saanut ohjelmaa kommunikoimaan tietokantojen kanssa, mutta sain luotua mm. 6 uutta tietokantatiedostoa, tietokannoista luovuttu tältä erää. jatkan taistelua omalla ajalla.|
+| 26.12. | 3    | yritetty koodata ui kivyllä, nätti tuli, mutta tätäkään en saanut kommunikoimaan oikein sovelluslogiikan kanssa. menetetty hermo niin totaalisesti, että luovutettu. tämänkin korjaan omalla ajalla.|
+| 26.12. | 1    | dokumentit korjattu, vaivuttu syvään masennukseen.|
+| yht. |   35  | |
