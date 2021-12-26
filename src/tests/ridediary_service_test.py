@@ -1,6 +1,6 @@
 import unittest
 from entities.ride import Ride
-from services.ridediary_services import RidediaryService
+from services.ridediaryservicestest import RidediaryServiceTest
 
 
 class TestRide(unittest.TestCase):
@@ -17,7 +17,7 @@ class TestRide(unittest.TestCase):
 
 class TestRidediaryService(unittest.TestCase):
     def setUp(self):
-        self.ridediary_service = RidediaryService()
+        self.ridediary_service = RidediaryServiceTest()
 
     def test_create_ride(self):
         None
